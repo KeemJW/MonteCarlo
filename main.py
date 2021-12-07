@@ -1,7 +1,7 @@
 import random
 import matplotlib.pyplot as plt
 
-area_size = 5
+area_size = 10
 num_inner_points = 0
 points_x = []
 points_y = []
@@ -71,6 +71,6 @@ def extract_inner_points():
 
 if __name__ == "__main__":
     generate_points(500)
-    extract_inner_points()
+    #extract_inner_points()
     draw_figure_2d() # or draw_figure_3d()
     
