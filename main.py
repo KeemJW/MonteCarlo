@@ -1,7 +1,7 @@
 import random
 import matplotlib.pyplot as plt
 
-area_size = 5
+area_size = 10
 num_inner_points = 0
 points_x = []
 points_y = []
