@@ -71,6 +71,6 @@ def extract_inner_points():
 
 if __name__ == "__main__":
     generate_points(500)
-    extract_inner_points()
+    #extract_inner_points()
     draw_figure_2d() # or draw_figure_3d()
     
